@@ -1,6 +1,6 @@
-@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 .bg-img1 {
-  background-image: url(/assets/img/card1.jpg);
+  background-image: url(../../assets/img/card1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -9,7 +9,7 @@
 }
 
 .bg-img2 {
-  background-image: url(/assets/img/card2.jpg);
+  background-image: url(../../assets/img/card2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -18,7 +18,7 @@
 }
 
 .bg-img3 {
-  background-image: url(/assets/img/card3.jpg);
+  background-image: url(../../assets/img/card3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@
 }
 
 .bg-img4 {
-  background-image: url(/assets/img/card4.jpg);
+  background-image: url(../../assets/img/card4.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -36,7 +36,7 @@
 }
 
 .img-testimonio1 {
-  background-image: url(/assets/img/testimonio1.jpg);
+  background-image: url(../../assets/img/testimonio1.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 }
 
 .img-testimonio2 {
-  background-image: url(/assets/img/testimonio2.jpg);
+  background-image: url(../../assets/img/testimonio2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@
 }
 
 .img-testimonio3 {
-  background-image: url(/assets/img/testimonio3.jpg);
+  background-image: url(../../assets/img/testimonio3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
